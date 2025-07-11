@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Iphone 13 Pro MAX",
+    "company": "Apple. Inc",
+    "type": "Mobile",
+    "amount": 420.84,
+    "date": "2022-04-14",
+    "img": "iphone",
+    "time": "8:OOpm",
+    "invoiceId": "MXSZHJKZIZI"
+  },
+  {
+    "name": "Netflix Subscription",
+    "company": "Netflix",
+    "type": "Entertainment",
+    "amount": 100.0,
+    "date": "2022-04-05",
+    "img": "netflixLogo",
+    "time": "8:OOpm",
+    "invoiceId": "MXSZHJKZIZI"
+  },
+  {
+    "name": "Figma Subscription",
+    "type": "Software",
+    "company": "Figma. Inc",
+    "amount": 244.2,
+    "date": "2022-04-02",
+    "img": "figmaLogo",
+    "time": "8:OOpm",
+    "invoiceId": "MXSZHJKZIZI"
+  }
+]
